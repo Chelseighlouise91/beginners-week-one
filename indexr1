@@ -5,7 +5,7 @@
     <h1> Hello World </H1>
 </head>
 <link rel=“stylesheet” type=“text/css” href=“css/styles.css”>
-<body> 
+<body>
 <h2> Welcome to my site!</h2>
 
 <img src="./duck.jpg" alt="A local image" width="200px"> <!-- image of a duck -->
@@ -19,6 +19,7 @@ Everyone should learn to code, here are some pretty good reasons why...
   <li> HTML is cool </li>
   <li> CSS is cooler </li>
   <li> JS is the best </li>
+  <li> CSS is Great </li>
 </ol>
 </div>
 <H2> <em> What do you need to create a website? </h2> </em>
